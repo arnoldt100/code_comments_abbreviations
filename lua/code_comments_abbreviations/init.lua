@@ -6,7 +6,7 @@ local M = {}
 
 function M.setup(opts)
     print("Running setup function code_comments_abbreviations package.")
-    require("python_comments")
+    require("code_comments_abbreviations.python_comments")
 end
 
 return M
