@@ -1,5 +1,5 @@
 -- 
-print("Loading init module code_comments_abbreviations package.")
+print("Loading init module code_comments_abbreviations package for mgit repo.")
 
 -- local pc =  require("code_comments_abbreviations.python_comments")
 
