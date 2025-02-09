@@ -7,4 +7,9 @@ function M.setup(opts)
     vim.api.nvim_command('iabbrev pc_1 python_comment 1')
 end
 
+function M.config(opts)
+    print("Running config function python_comments package.")
+    vim.api.nvim_command('iabbrev pc_1 python_comment 1')
+end
+
 return M
